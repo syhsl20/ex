@@ -5,7 +5,7 @@ public class test {
 public static void main(String[] args) {
 	System.out.println("hello world");
 	System.out.println("ni hao ");
-	System.out.println("ÔÙ´ÎĞŞ¸Ä");
+	System.out.println("å†ä¸€æ¬¡ä¿®æ”¹");
 }
 	
 	
